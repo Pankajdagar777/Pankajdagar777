@@ -6,15 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning+Engineer;Building+RAG+%26+Agentic+AI+Systems;LangChain+%7C+LangGraph+%7C+FastAPI;Turning+Data+into+Intelligent+Applications" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Pankajdagar777">
-    <img src="https://img.shields.io/github/followers/Pankajdagar777?label=Followers&style=for-the-badge&logo=github&color=36BCF7"/>
-  </a>
-  <a href="https://github.com/Pankajdagar777">
-    <img src="https://img.shields.io/github/stars/Pankajdagar777?label=Stars&style=for-the-badge&logo=github&color=36BCF7"/>
-  </a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
@@ -232,29 +223,7 @@ Hands-on experience across the complete ML workflow:
 
 ---
 
-# 📈 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Pankajdagar777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pankajdagar777&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pankajdagar777/Pankajdagar777/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 🏆 Certifications & Achievements
 
